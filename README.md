@@ -1,2 +1,3 @@
 # Predicting-House-Listing-Price
 My Business Analytics Project at CSUN
+I used a linear regression model to predict the target variable, house price, and what features impact the most on the price. Interestingly, the number of bathrooms in a house impacts the house price more than the number of bedrooms. Also, the second impactful feature was the existence of Air Conditioning, rather than the existence of view. Therefore, I suggested sharing a bathroom to get a reasonably priced house. Throughout this study, I also gained information that building a bathroom is a very complex procedure when building a house since high constructures technologies are needed for pipe lines. 
